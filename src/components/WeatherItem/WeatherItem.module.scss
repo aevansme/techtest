@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+*{
+    font-family: 'Poppins';
+}
+
+.card {
+    height: 350px;
+    width: 250px;
+    border-radius:5px ;
+    background-color: #8675a9;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+.humid{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 150px;
+}
+.tempcontainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 200px;
+}
+
+h2{
+    font-size: 40px;
+}

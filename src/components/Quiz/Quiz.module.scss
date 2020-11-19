@@ -1,0 +1,36 @@
+
+input{
+    height: 70px;
+    width: 320px;
+    
+    border-radius: 5px;
+    background-color: #8675a9;
+    color: white;
+    padding: 8px;
+    border: 3px solid #8675a9;
+
+
+}
+
+p{
+    color: #8675a9;
+    
+}
+
+button{
+    height: 90px;
+    width: 220px;
+    padding: 8px;
+    border: 3px solid #8675a9;
+    border-radius: 5px;
+    color: #8675a9;
+    font-size: 20px;
+}
+h3{
+    color: #8675a9;
+}
+
+::placeholder { 
+    color: white;
+    
+  }
